@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @behren
-- 👀 I’m interested in DevOps, Python, Web Development and Borussia Dortmund 
-- 🌱 I’m currently learning Python, JavaScript, HTML and CSS 
+- 👀 I’m interested in Kubernetes, conterization, DevOps in general, Python...
+- 🌱 I’m currently learning Python and Kubernetes
 - 💞️ I’m looking to collaborate on anything that's simple enough for a greenhorn like me.
 - 📫 You can reach me on my Twitter @nikknullneun
 

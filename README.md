@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @behren
-- 👀 I’m interested in Kubernetes, conterization, DevOps in general, Python...
-- 🌱 I’m currently learning Python and Kubernetes
-- 💞️ I’m looking to collaborate on anything that's simple enough for a greenhorn like me.
-- 📫 You can reach me on my Twitter @nikknullneun
+- 👀 I’m interested in Kubernetes, containerization, DevOps in general, Python, you get the idea...
+- 🌱 I’m currently learning more about Kubernetes
 
 <!---
 behren/behren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

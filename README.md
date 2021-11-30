@@ -1,4 +1,4 @@
-## Greetings from Germany, my name's Niclas! 🇩🇪
+## Greetings from Germany, my name's Niclas! 👋
 
 - 👀 I’m interested in Kubernetes, containerization, DevOps in general, Python, you get the idea.
 - 🌱 I’m currently learning more about Kubernetes and preparing for the CKAD certification.

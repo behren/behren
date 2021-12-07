@@ -6,7 +6,7 @@
 ### My recent projects
 
 - [behren/100-days-of-code](https://github.com/behren/100-days-of-code) - A repository tracking my progress through @angelabauer's phenomenal Python bootcamp. Still progressing.
-- [behren/MITx-6.00.1x](https://github.com/behren/MITx-6.00.1x) - A course provided by the MIT in collaboration with [edX](https://www.edx.org/course/introduction-to-computer-science-and-programming-7), which I recently took and completed to gain more and solidify my Python knowledge. 
+- [behren/MITx-6.00.1x](https://github.com/behren/MITx-6.00.1x) - A course provided by the MIT in collaboration with [edX](https://www.edx.org/course/introduction-to-computer-science-and-programming-7), which I recently took and completed to solidify my Python knowledge. 
 
 
 <!---

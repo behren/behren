@@ -1,4 +1,4 @@
-## I am Nicl! 👋
+## I am Niclas! 👋
 
 - 👀 I’m interested in DevOps, Kubernetes, containerization, Python, you get the idea.
 - 🌱 I’m currently learning more about Kubernetes and preparing for the CKAD certification.

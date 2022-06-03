@@ -5,7 +5,9 @@
 
 ### My recent projects
 
-- [behren/100-days-of-code](https://github.com/behren/100-days-of-code) - A repository tracking my progress through @angelabauer's phenomenal Python bootcamp. Fiddling around with it from time to time to keep my Python skills up to date.
+- [behren/100-days-of-code](https://github.com/nicl09/100-days-of-code) - A repository tracking my progress through @angelabauer's phenomenal Python bootcamp. Fiddling around with it from time to time to keep my Python skills up to date.
+
+- [behren/liqui-planner](https://github.com/nicl09/liqui-planner) - A small housekeeping book project to improve my JavaScript skills.
 
 <!---
 behren/behren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

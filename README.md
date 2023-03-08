@@ -1,5 +1,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/niclas-behrendt/)](https://www.linkedin.com/in/niclas-behrendt/)
-[![CV](https://img.shields.io/badge/Curriculum%20Vitae-00457C?style=for-the-badge&logoColor=white&link=https://www.cv.nicl.dev)](https://www.cv.nicl.dev)
+[![CV](https://img.shields.io/badge/Curriculum%20Vitae-00457C?style=for-the-badge&logoColor=white&link=cv.nicl.dev)](cv.nicl.dev)
 
 ```yaml
 apiVersion: v1

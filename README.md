@@ -7,7 +7,7 @@ metadata:
     name: Niclas Behrendt
     namespace: Tallence ag
     labels:
-        linuxfoundation/ckad: yes
+        linuxfoundation: ckad
     annotations:
         family: girlfriend, golden retriever
         sports: football, diving, surfing, bvb

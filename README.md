@@ -1,13 +1,22 @@
-## I am Niclas! 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/niclas-behrendt/)](https://www.linkedin.com/in/niclas-behrendt/)
 
-- 👀 I’m interested in DevOps, Kubernetes, containerization, Python, you get the idea.
-- 🌱 I’m currently learning more about Kubernetes and preparing for the CKAD certification.
-
-### My recent projects
-
-- [behren/100-days-of-code](https://github.com/nicl09/100-days-of-code) - A repository tracking my progress through @angelabauer's phenomenal Python bootcamp. Fiddling around with it from time to time to keep my Python skills up to date.
-
-- [behren/liqui-planner](https://github.com/nicl09/liqui-planner) - A small housekeeping book project to improve my JavaScript skills.
+```yaml
+apiVersion: v1
+kind: DevOpsEngineer
+metadata:
+    name: Niclas Behrendt
+    namespace: Tallence ag
+    labels:
+        linuxfoundation/ckad: yes
+    annotations:
+        family: girlfriend, golden retriever
+        sports: football, diving, surfing, bvb
+        community: cncf, bvb
+spec:
+    replicas: 1
+    containers:
+    - image: earth.io/niclas:latest   
+```
 
 <!---
 behren/behren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
